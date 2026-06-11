@@ -113,7 +113,7 @@
 			bindings = <
 			&kp ESC  &kp C_PREV &kp C_PP  &kp C_NEXT  &kp C_PAUSE    	&kp PG_UP  &kp HOME &kp UP &kp END &kp SPACE
 			&sk LALT &sk LGUI  &sk LSHIFT  &sk LCTRL  &kp RALT 			&kp PG_DN &kp LEFT  &kp DOWN  &kp RIGHT   &kp ENTER
-			&kp LC(Z)  &kp LC(X) &kp LC(C) &kp LGUI   &kp LC(V)          &kp LC(BSPC) &kp ENTER &trans &trans  &trans
+			&kp LC(Z)  &kp LC(X) &kp LC(C) &kp LGUI   &kp LC(V)          &kp LC(BSPC) &kp BSPC &trans &trans  &trans
 																		&trans &kp LCTRL    &kp CAPS  &mo FNC 
 			>;
 		};
